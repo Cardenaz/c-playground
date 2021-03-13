@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+    float variable = 5.5f; 
+    double var = 5.2; 
+    std::cout << variable << std::endl; 
+    std::cin.get();
+}
